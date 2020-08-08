@@ -22,14 +22,14 @@ C 언어 / GCC 컴파일러
 
 -------
 ## 메인 - 로그인 전
-![beforelogin](Screenshots/PJ1/main-beforeLogin.JPG)
+![beforelogin](/Screenshots/PJ1/main-beforeLogin.JPG)
 - 프로그램 시작 시에, 가장 먼저 실행되는 화면
 - SIGN IN : **로그인** 화면으로 이동
 - SIGN UP : **회원가입** 화면으로 이동
 - EXIT : 프로그램 종료
 
 ## 메인 - 로그인 후
-![afterlogin](Screenshots/PJ1/main-afterLogin.JPG)
+![afterlogin](/Screenshots/PJ1/main-afterLogin.JPG)
 - 사용자 계정으로 로그인 후에 실행되는 화면
 - 출력 정보 : 로그인 계정명
 - PLAY : **회원 정보** 화면으로 이동
@@ -37,7 +37,7 @@ C 언어 / GCC 컴파일러
 - WITHDRAWAL : **회원 탈퇴** 화면으로 이동
 
 ## 회원 가입
-![signup](Screenshots/PJ1/signup.JPG)
+![signup](/Screenshots/PJ1/signup.JPG)
 - 회원 가입 기능을 위한 화면
 - 입력 정보 : 계정명, 비밀번호
 - SIGN UP
@@ -46,7 +46,7 @@ C 언어 / GCC 컴파일러
 - BACK : 입력된 내용을 비우고, **메인 - 로그인 전** 화면으로 이동함
 
 ## 로그인
-![login](Screenshots/PJ1/login.JPG)
+![login](/Screenshots/PJ1/login.JPG)
 - 로그인 기능을 위한 화면
 - 입력 정보 : 계정명, 비밀번호
 - SIGN IN
@@ -55,7 +55,7 @@ C 언어 / GCC 컴파일러
 - BACK : 입력된 내용을 비우고, **메인 - 로그인 전** 화면으로 이동함
 
 ## 회원 탈퇴
-![withdrawal](Screenshots/PJ1/withdrawal.JPG)
+![withdrawal](/Screenshots/PJ1/withdrawal.JPG)
 - 회원 탈퇴 기능을위한 화면
 - 출력 정보 : 로그인 계정명
 - 입력 정보 : 비밀번호
@@ -65,13 +65,13 @@ C 언어 / GCC 컴파일러
 - BACK : 입력된 내용을 비우고, **메인 - 로그인 후** 화면으로 이동함
 
 ## 회원 정보
-![info](Screenshots/PJ1/info.JPG)
+![info](/Screenshots/PJ1/info.JPG)
 - 로그인을 한 후에, 사용자의 정보 출력 및 게임 접속을 위한 화면
 - 출력 정보 : 로그인 계정명, 승리 횟수, 패배 횟수, 승률
 - OK : **게임 화면**으로 이동
 
 ## 게임 화면
-![game](Screenshots/PJ1/game.JPG)
+![game](/Screenshots/PJ1/game.JPG)
 - 게임 플레이를 위한 화면
 - 출력
   - 게임 보드 6x6
