@@ -1,4 +1,5 @@
 # InformationManagement_ServerClient_LINUX
+2018.12.16
 ###### Project assignment 2
 Project assignment 1 + Server/Client System
 ###### 프로젝트 과제1
