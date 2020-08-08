@@ -1,4 +1,5 @@
 # InformationManagement_ServerClient_LINUX
+2018.11.11
 ###### Project assignment 1
 Member Information Management, Screen Layout
 ###### 프로젝트 과제1
